@@ -3,25 +3,7 @@
  *            -= Sebastian Schiefermayr =-       
  *                     4AHITM   
  *  > TheMain
- *  > 15:04:25
- * 
- *  E-Mail: basti@bastiarts.com 
- *  Web: https://bastiarts.com
- *  Github: https://github.com/BastiArts
- * ************************************************
- */
-package at.htl.ldaptest;
-
-/**
- *
- * @author Basti
- */
-/*
- * ************************************************
- *            -= Sebastian Schiefermayr =-       
- *                     4AHITM   
- *  > TheMain
- *  > 11:11:18
+ *  > 12:38:27
  * 
  *  E-Mail: basti@bastiarts.com 
  *  Web: https://bastiarts.com
